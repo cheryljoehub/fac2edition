@@ -1,0 +1,636 @@
+[
+  {
+    "id": 1,
+    "name": "Greg Lucas, MBA",
+    "title": "Professor",
+    "department": "Business",
+    "office": "42 - 301",
+    "hometown": " Moreno Valley, CA",
+    "image": "images/professors/greglucas.png"
+  },
+  {
+    "id": 2,
+    "name": "Dr. Carolyn John-Carbon, DBA",
+    "title": "Professor",
+    "department": "Finance",
+    "office": "Engineering Center 210",
+    "hometown": "Chandler, AZ",
+    "hours": "Tuesday & Thursday 10:00 AM - 12:00 PM",
+    "education": "Ph.D. Mechanical Engineering - Georgia Tech",
+    "courses": [
+    ],
+    "funFact": "",
+    "image": "images/professors/carolynjohn.png"
+  },
+   {
+    "id": 3,
+    "name": "Kevin Jensen, MBA",
+    "title": "Professor",
+    "department": "Marketing",
+    "office": "Engineering Center 210",
+    "hometown": "Boulder City, NV",
+    "hours": "Tuesday & Thursday 10:00 AM - 12:00 PM",
+    "education": "Ph.D. Mechanical Engineering - Georgia Tech",
+    "courses": [
+    ],
+    "funFact": "",
+    "image": "images/professors/kevinjensen.png"
+  },
+ {
+    "id": 4,
+    "name": "Carrie Whitley, MEd",
+    "title": "Professor",
+    "department": "Management",
+    "office": "Engineering Center 210",
+    "hometown": "Tustin, CA",
+    "hours": "Tuesday & Thursday 10:00 AM - 12:00 PM",
+    "education": "Ph.D. Mechanical Engineering - Georgia Tech",
+    "courses": [
+],
+    "funFact": "",
+    "image": "images/professors/carriewhitley.png"
+  },
+  {
+    "id": 5,
+    "name": "Dr. Moronke Oke, PhD, MBA",
+    "title": "Professor",
+    "department": "Management",
+    "office": "Engineering Center 210",
+    "hometown": "Ilorin, Nigeria",
+    "hours": "Tuesday & Thursday 10:00 AM - 12:00 PM",
+    "education": "Ph.D. Mechanical Engineering - Georgia Tech",
+    "courses": [
+],
+    "funFact": "",
+    "image": "images/professors/moronkeoke.png"
+},
+{
+    "id": 6,
+    "name": "Dr. Tracy Abbott, MBA, DBA",
+    "title": "Professor",
+    "department": "Marketing",
+    "office": "Engineering Center 210",
+    "hometown": "Scottsdale, AZ",
+    "hours": "Tuesday & Thursday 10:00 AM - 12:00 PM",
+    "education": "Ph.D. Mechanical Engineering - Georgia Tech",
+    "courses": [
+],
+    "funFact": "",
+    "image": "images/professors/tracyabbott.png"
+  },
+  {
+    "id": 7,
+    "name": "Dr. Gary Almy, PhD, MBA, MEd",
+    "title": "Professor",
+    "department": "Accounting",
+    "office": "Engineering Center 210",
+    "hometown": "Albany, NY",
+    "hours": "Tuesday & Thursday 10:00 AM - 12:00 PM",
+    "education": "Ph.D. Mechanical Engineering - Georgia Tech",
+    "courses": [
+],
+    "funFact": "",
+    "image": "images/professors/garyalmy.png"
+},
+{
+    "id": 8,
+    "name": "Dr. Kathy Archer, DBA",
+    "title": "Professor",
+    "department": "Economics",
+    "office": "Engineering Center 210",
+    "hometown": "Wichita, KS",
+    "hours": "Tuesday & Thursday 10:00 AM - 12:00 PM",
+    "education": "Ph.D. Mechanical Engineering - Georgia Tech",
+    "courses": [
+],
+    "funFact": "",
+    "image": "images/professors/kathyarcher.png"
+  },
+  {
+    "id": 9,
+    "name": "Mark Behmer, MAOM",
+    "title": "Professor",
+    "department": "Marketing",
+    "office": "Engineering Center 210",
+    "hometown": "Dearborn Heights, MI",
+    "hours": "Tuesday & Thursday 10:00 AM - 12:00 PM",
+    "education": "Ph.D. Mechanical Engineering - Georgia Tech",
+    "courses": [
+],
+    "funFact": "",
+    "image": "images/professors/markbehmer.png"
+},
+{
+    "id": 9,
+    "name": "Dave Blackledge, JD",
+    "title": "Professor",
+    "department": "Business",
+    "office": "Engineering Center 210",
+    "hometown": "Scranton, PA",
+    "hours": "Tuesday & Thursday 10:00 AM - 12:00 PM",
+    "education": "Ph.D. Mechanical Engineering - Georgia Tech",
+    "courses": [
+],
+    "funFact": "",
+    "image": "images/professors/daveblackledge.png"
+  },
+  {
+    "id": 10,
+    "name": "Dr. Randy Bulriss, PhD, MSE",
+    "title": "Professor",
+    "department": "Business",
+    "office": "Engineering Center 210",
+    "hometown": "Mooers, NY",
+    "hours": "Tuesday & Thursday 10:00 AM - 12:00 PM",
+    "education": "Ph.D. Mechanical Engineering - Georgia Tech",
+    "courses": [
+],
+    "funFact": "",
+    "image": "images/professors/randybulriss.png"
+}
+,
+{
+    "id": 11,
+    "name": "Dr. Ali Cengiz, MBA, PhD",
+    "title": "Professor",
+    "department": "Economics",
+    "office": "Engineering Center 210",
+    "hometown": "Delray Beach, FL",
+    "hours": "Tuesday & Thursday 10:00 AM - 12:00 PM",
+    "education": "Ph.D. Mechanical Engineering - Georgia Tech",
+    "courses": [
+],
+    "funFact": "",
+    "image": "images/professors/alicengiz.png"
+  },
+  {
+    "id": 12,
+    "name": "Dr. Raquel Carroll, Ed.D, MSHR",
+    "title": "Professor",
+    "department": "Human Resources",
+    "office": "Engineering Center 210",
+    "hometown": "Glendale, AZ",
+    "hours": "Tuesday & Thursday 10:00 AM - 12:00 PM",
+    "education": "Ph.D. Mechanical Engineering - Georgia Tech",
+    "courses": [
+],
+    "funFact": "",
+    "image": "images/professors/raquelcarrol.png"
+}
+,
+{
+    "id": 13,
+    "name": "Dr. Joy Clady, PhD",
+    "title": "Professor",
+    "department": "Finance",
+    "office": "Engineering Center 210",
+    "hometown": "Sandwich, IL",
+    "hours": "Tuesday & Thursday 10:00 AM - 12:00 PM",
+    "education": "Ph.D. Mechanical Engineering - Georgia Tech",
+    "courses": [
+],
+    "funFact": "",
+    "image": "images/professors/joyclady.png"
+  },
+  {
+    "id": 14,
+    "name": "Dr. Leslie D'Anjou, PhD",
+    "title": "Professor",
+    "department": "Statistics",
+    "office": "Engineering Center 210",
+    "hometown": "Georgetown, Guyana",
+    "hours": "Tuesday & Thursday 10:00 AM - 12:00 PM",
+    "education": "Ph.D. Mechanical Engineering - Georgia Tech",
+    "courses": [
+],
+    "funFact": "",
+    "image": "images/professors/lesliedanjou.png"
+}
+,
+{
+    "id": 15,
+    "name": "Dr. Kelly Damron, PhD",
+    "title": "Professor",
+    "department": "Accounting",
+    "office": "Engineering Center 210",
+    "hometown": "Woodland Park, CO",
+    "hours": "Tuesday & Thursday 10:00 AM - 12:00 PM",
+    "education": "Ph.D. Mechanical Engineering - Georgia Tech",
+    "courses": [
+],
+    "funFact": "",
+    "image": "images/professors/kellydamron.png"
+  },
+  {
+    "id": 16,
+    "name": "Dr. Marnie Davis, Ed.D, MBA",
+    "title": "Professor",
+    "department": "Management",
+    "office": "Engineering Center 210",
+    "hometown": "Bakersfield, CA",
+    "hours": "Tuesday & Thursday 10:00 AM - 12:00 PM",
+    "education": "Ph.D. Mechanical Engineering - Georgia Tech",
+    "courses": [
+],
+    "funFact": "",
+    "image": "images/professors/marniedavis.png"
+}
+,
+{
+    "id": 17,
+    "name": "Athena DoBell-Garcia, MBA",
+    "title": "Professor",
+    "department": "Accounting",
+    "office": "Engineering Center 210",
+    "hometown": "Holbrook, AZ",
+    "hours": "Tuesday & Thursday 10:00 AM - 12:00 PM",
+    "education": "Ph.D. Mechanical Engineering - Georgia Tech",
+    "courses": [
+],
+    "funFact": "",
+    "image": "images/professors/athenadobell.png"
+  },
+  {
+    "id": 18,
+    "name": "Chris Dueringer, MBA",
+    "title": "Professor",
+    "department": "Management",
+    "office": "Engineering Center 210",
+    "hometown": "Eau Claire, WI",
+    "hours": "Tuesday & Thursday 10:00 AM - 12:00 PM",
+    "education": "Ph.D. Mechanical Engineering - Georgia Tech",
+    "courses": [
+],
+    "funFact": "",
+    "image": "images/professors/chrisdueringer.png"
+}
+,
+{
+    "id": 19,
+    "name": "Lisa Duryee, MSL, MPA",
+    "title": "Professor",
+    "department": "Management",
+    "office": "Engineering Center 210",
+    "hometown": "Phoenix, AZ",
+    "hours": "Tuesday & Thursday 10:00 AM - 12:00 PM",
+    "education": "Ph.D. Mechanical Engineering - Georgia Tech",
+    "courses": [
+],
+    "funFact": "",
+    "image": "images/professors/lisaduryee.png"
+  },
+  {
+    "id": 20,
+    "name": "Dr. Jennifer Elfenbein, PhD",
+    "title": "Professor",
+    "department": "Hospitality",
+    "office": "Engineering Center 210",
+    "hometown": "San Diego, CA",
+    "hours": "Tuesday & Thursday 10:00 AM - 12:00 PM",
+    "education": "Ph.D. Mechanical Engineering - Georgia Tech",
+    "courses": [
+],
+    "funFact": "",
+    "image": "images/professors/jenniferelfenbein.png"
+},
+  {
+    "id": 21,
+    "name": "Brian Hardy, MBA",
+    "title": "Professor",
+    "department": "Business",
+    "office": "Engineering Center 210",
+    "hometown": "Colorado Springs, CO",
+    "hours": "Tuesday & Thursday 10:00 AM - 12:00 PM",
+    "education": "Ph.D. Mechanical Engineering - Georgia Tech",
+    "courses": [
+],
+    "funFact": "",
+    "image": "images/professors/brianhardy.png"
+},
+ {
+    "id": 22,
+    "name": "Dr. Jason Hembree, Ed.D, MAHR ",
+    "title": "Professor",
+    "department": "Human Resources",
+    "office": "Engineering Center 210",
+    "hometown": "Kingman, AZ",
+    "hours": "Tuesday & Thursday 10:00 AM - 12:00 PM",
+    "education": "Ph.D. Mechanical Engineering - Georgia Tech",
+    "courses": [
+],
+    "funFact": "",
+    "image": "images/professors/jasonhembree.png"
+},
+{
+    "id": 23,
+    "name": "Jennifer Hopkins, MBA",
+    "title": "Professor",
+    "department": "Accounting",
+    "office": "Engineering Center 210",
+    "hometown": "Reeder, PA",
+    "hours": "Tuesday & Thursday 10:00 AM - 12:00 PM",
+    "education": "Ph.D. Mechanical Engineering - Georgia Tech",
+    "courses": [
+],
+    "funFact": "",
+    "image": "images/professors/jenniferhopkins.png"
+},
+{
+    "id": 24,
+    "name": "Dr. Chuck Jarrell, PhD ",
+    "title": "Professor",
+    "department": "Marketing",
+    "office": "Engineering Center 210",
+    "hometown": "Beckley, WV",
+    "hours": "Tuesday & Thursday 10:00 AM - 12:00 PM",
+    "education": "Ph.D. Mechanical Engineering - Georgia Tech",
+    "courses": [
+],
+    "funFact": "",
+    "image": "images/professors/chuckjarrell.png"
+},
+{
+    "id": 25,
+    "name": "Dr. Praveena Jayaraman, PhD",
+    "title": "Professor",
+    "department": "Economics",
+    "office": "Engineering Center 210",
+    "hometown": "Chennai, India",
+    "hours": "Tuesday & Thursday 10:00 AM - 12:00 PM",
+    "education": "Ph.D. Mechanical Engineering - Georgia Tech",
+    "courses": [
+],
+    "funFact": "",
+    "image": "images/professors/praveenajaya.png"
+},
+{
+    "id": 26,
+    "name": "Tim Kelley, MBA ",
+    "title": "Professor",
+    "department": "Entrepreneurial Studies",
+    "office": "Engineering Center 210",
+    "hometown": "Phoenix, AZ",
+    "hours": "Tuesday & Thursday 10:00 AM - 12:00 PM",
+    "education": "Ph.D. Mechanical Engineering - Georgia Tech",
+    "courses": [
+],
+    "funFact": "",
+    "image": "images/professors/timkelly.png"
+},
+{
+    "id": 27,
+    "name": "Alan Klibanoff, MBA",
+    "title": "Professor",
+    "department": "Finance",
+    "office": "Engineering Center 210",
+    "hometown": "Gleneden Beach, OR",
+    "hours": "Tuesday & Thursday 10:00 AM - 12:00 PM",
+    "education": "Ph.D. Mechanical Engineering - Georgia Tech",
+    "courses": [
+],
+    "funFact": "",
+    "image": "images/professors/alanKliban.png"
+}
+,
+{
+    "id": 28,
+    "name": "Dr. Emem Laguda, MSc, MBA, PhD",
+    "title": "Professor",
+    "department": "Management",
+    "office": "Engineering Center 210",
+    "hometown": "Akwa-Ibom, Nigeria",
+    "hours": "Tuesday & Thursday 10:00 AM - 12:00 PM",
+    "education": "Ph.D. Mechanical Engineering - Georgia Tech",
+    "courses": [
+],
+    "funFact": "",
+    "image": "images/professors/ememlaguda.png"
+},
+{
+    "id": 29,
+    "name": "Michael Lang, MBA",
+    "title": "Professor",
+    "department": "Entrepreneurial Studies",
+    "office": "Engineering Center 210",
+    "hometown": "Phoenix, AZ",
+    "hours": "Tuesday & Thursday 10:00 AM - 12:00 PM",
+    "education": "Ph.D. Mechanical Engineering - Georgia Tech",
+    "courses": [
+],
+    "funFact": "",
+    "image": "images/professors/michaellang.png"
+},
+{
+    "id": 30,
+    "name": "Dan McClintock, MBA",
+    "title": "Professor",
+    "department": "Business",
+    "office": "Engineering Center 210",
+    "hometown": "Visalia, CA",
+    "hours": "Tuesday & Thursday 10:00 AM - 12:00 PM",
+    "education": "Ph.D. Mechanical Engineering - Georgia Tech",
+    "courses": [
+],
+    "funFact": "",
+    "image": "images/professors/danmcclintock.png"
+},
+{
+    "id": 31,
+    "name": "Dr. David Perkins, DBA",
+    "title": "Professor",
+    "department": "Business",
+    "office": "Engineering Center 210",
+    "hometown": "Ellsworth, MN",
+    "hours": "Tuesday & Thursday 10:00 AM - 12:00 PM",
+    "education": "Ph.D. Mechanical Engineering - Georgia Tech",
+    "courses": [
+],
+    "funFact": "",
+    "image": "images/professors/davidperkins.png"
+},
+{
+    "id": 32,
+    "name": "Connie Clary, MBA",
+    "title": "Professor",
+    "department": "Marketing",
+    "office": "Engineering Center 210",
+    "hometown": "Houston, TX",
+    "hours": "Tuesday & Thursday 10:00 AM - 12:00 PM",
+    "education": "Ph.D. Mechanical Engineering - Georgia Tech",
+    "courses": [
+],
+    "funFact": "",
+    "image": "images/professors/connieclary.png"
+},
+{
+    "id": 33,
+    "name": "Dr. Donna DeMilia, PhD",
+    "title": "Professor",
+    "department": "Accounting",
+    "office": "Engineering Center 210",
+    "hometown": "Briarcliff Manor, NY",
+    "hours": "Tuesday & Thursday 10:00 AM - 12:00 PM",
+    "education": "Ph.D. Mechanical Engineering - Georgia Tech",
+    "courses": [
+],
+    "funFact": "",
+    "image": "images/professors/donnademilia.png"
+},
+{
+    "id": 34,
+    "name": "Kenneth Hein, MBA, CMP",
+    "title": "Professor",
+    "department": "Management",
+    "office": "Engineering Center 210",
+    "hometown": "Newton, Kansas",
+    "hours": "Tuesday & Thursday 10:00 AM - 12:00 PM",
+    "education": "Ph.D. Mechanical Engineering - Georgia Tech",
+    "courses": [
+],
+    "funFact": "",
+    "image": "images/professors/kennethhein.png"
+}
+,
+{
+    "id": 35,
+    "name": "Dr. Connor Magnuson, PhD",
+    "title": "Professor",
+    "department": "Economics",
+    "office": "Engineering Center 210",
+    "hometown": "Albuquerque, NM",
+    "hours": "Tuesday & Thursday 10:00 AM - 12:00 PM",
+    "education": "Ph.D. Mechanical Engineering - Georgia Tech",
+    "courses": [
+],
+    "funFact": "",
+    "image": "images/professors/connormagnuson.png"
+},
+{
+    "id": 36,
+    "name": "Dr. Mindy Weinstein, PhD",
+    "title": "Professor",
+    "department": "Marketing",
+    "office": "Engineering Center 210",
+    "hometown": "Tustin, CA",
+    "hours": "Tuesday & Thursday 10:00 AM - 12:00 PM",
+    "education": "Ph.D. Mechanical Engineering - Georgia Tech",
+    "courses": [
+],
+    "funFact": "",
+    "image": "images/professors/mindyweinstein.png"
+}
+,
+{
+    "id": 37,
+    "name": "Michael Potter, MBA",
+    "title": "Professor",
+    "department": "Accounting",
+    "office": "Engineering Center 210",
+    "hometown": "Santa Maria, CA",
+    "hours": "Tuesday & Thursday 10:00 AM - 12:00 PM",
+    "education": "Ph.D. Mechanical Engineering - Georgia Tech",
+    "courses": [
+],
+    "funFact": "",
+    "image": "images/professors/michaelpotter.png"
+},
+{
+    "id": 38,
+    "name": "Ed Ramirez, MBA, MSIM",
+    "title": "Professor",
+    "department": "Management",
+    "office": "Engineering Center 210",
+    "hometown": "San Salvador, El Salvador",
+    "hours": "Tuesday & Thursday 10:00 AM - 12:00 PM",
+    "education": "Ph.D. Mechanical Engineering - Georgia Tech",
+    "courses": [
+],
+    "funFact": "",
+    "image": "images/professors/edramirez.png"
+},
+{
+    "id": 39,
+    "name": " Dr. Chin-Hun Yi, DM IST",
+    "title": "Professor",
+    "department": "Management",
+    "office": "Engineering Center 210",
+    "hometown": "Seoul, South Korea",
+    "hours": "Tuesday & Thursday 10:00 AM - 12:00 PM",
+    "education": "Ph.D. Mechanical Engineering - Georgia Tech",
+    "courses": [
+],
+    "funFact": "",
+    "image": "images/professors/chinhunyi.png"
+},
+{
+    "id": 40,
+    "name": "Paul Waterman, MBA",
+    "title": "Professor",
+    "department": "Entrepreneurial Studies",
+    "office": "Engineering Center 210",
+    "hometown": "Madison, WI",
+    "hours": "Tuesday & Thursday 10:00 AM - 12:00 PM",
+    "education": "Ph.D. Mechanical Engineering - Georgia Tech",
+    "courses": [
+],
+    "funFact": "",
+    "image": "images/professors/paulwaterman.png"
+},
+{
+    "id": 41,
+    "name": " Dr. Alex Theisen, PhD",
+    "title": "Professor",
+    "department": "Economics",
+    "office": "Engineering Center 210",
+    "hometown": "Scottsdale, AZ",
+    "hours": "Tuesday & Thursday 10:00 AM - 12:00 PM",
+    "education": "Ph.D. Mechanical Engineering - Georgia Tech",
+    "courses": [
+],
+    "funFact": "",
+    "image": "images/professors/alextheisen.png"
+},
+{
+    "id": 42,
+    "name": " Craig St. John, MBA, MAT",
+    "title": "Professor",
+    "department": "Management",
+    "office": "Engineering Center 210",
+    "hometown": "Chandler, AZ",
+    "hours": "Tuesday & Thursday 10:00 AM - 12:00 PM",
+    "education": "Ph.D. Mechanical Engineering - Georgia Tech",
+    "courses": [
+],
+    "funFact": "",
+    "image": "images/professors/craigstjohn.png"
+},
+{
+    "id": 43,
+    "name": " Alli Schilling, MM",
+    "title": "Professor",
+    "department": "Management",
+    "office": "Engineering Center 210",
+    "hometown": " Phoenix, AZ",
+    "hours": "Tuesday & Thursday 10:00 AM - 12:00 PM",
+    "education": "Ph.D. Mechanical Engineering - Georgia Tech",
+    "courses": [
+],
+    "funFact": "",
+    "image": "images/professors/allichilling.png"
+},
+{
+    "id": 44,
+    "name": "Russ Schwarz, MBA",
+    "title": "Professor",
+    "department": "Marketing",
+    "office": "Engineering Center 210",
+    "hometown": "Chicago, IL",
+    "hours": "Tuesday & Thursday 10:00 AM - 12:00 PM",
+    "education": "Ph.D. Mechanical Engineering - Georgia Tech",
+    "courses": [
+],
+    "funFact": "",
+    "image": "images/professors/russschwarz.png"
+}
+]
+ 
