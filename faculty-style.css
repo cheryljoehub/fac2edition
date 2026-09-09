@@ -323,9 +323,8 @@ ON-SCREEN KEYBOARD
     display:flex;
     align-items:flex-end;
     justify-content:center;
-    padding:24px;
+    padding:24px 24px clamp(140px, 28vh, 300px);
     background:rgba(20,13,10,.62);
-    backdrop-filter:blur(5px);
 }
 
 #keyboardCard{
@@ -900,7 +899,7 @@ width:95%;
 
 }
 
-#keyboardWindow{ padding:10px; }
+#keyboardWindow{ padding:10px 10px clamp(140px, 28vh, 300px); }
 #keyboardCard{ padding:16px 10px; }
 .keyboardRow{ gap:5px; }
 .keyboardKey{
